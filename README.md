@@ -1,6 +1,6 @@
 # Exercice 5 - Réponses aux questions finales
 
-##Ecrire un main pour faire tourner votre code… qu’en pensez-vous ?
+## Ecrire un main pour faire tourner votre code… qu’en pensez-vous ?
 Je pense que ce code est bien mieux organisé que les versions précédentes car maintenant :
 * Je n'ai plus besoin de réécrire le code de connexion dans chaque classe
 * Si je fais une erreur, je sais exactement où chercher
